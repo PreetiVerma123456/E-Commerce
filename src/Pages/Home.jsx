@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { Categories, mockData } from '../assets/Mockdat'
-import HeroImage from '../assets/Images/hero-page.png'
+import HeroImage from '../assets/Images/mini-cart.jpg'
 import InfoSection from '../Component/InfoSection'
 import CategorySection from '../Component/CategorySection'
 import { setProducts } from '../redux/ProductSlice'
