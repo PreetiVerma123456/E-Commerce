@@ -1,5 +1,5 @@
 import React from 'react'
-import Mencategory from '../assets/Images/woman.png'
+import Mencategory from '../assets/Images/shirt.jpg'
 import WomanCategory from '../assets/Images/woman.png'
 import Kidcategory from '../assets/Images/kid.png'
 
